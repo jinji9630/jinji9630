@@ -15,7 +15,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/VrzXhtoSwcsAAAAd/hacker-typing.gif"  />
+  <img height="600" src="https://images.squarespace-cdn.com/content/v1/573f6dc3e707eb889465cb29/1476205165689-98WV7AY76DS0VY53X3RG/image-asset.gif"  />
 </div>
 
 ###
